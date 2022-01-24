@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @payyagarirocket
 - 👀 I’m interested in technology that makes the future sustainable and unbaised. 
-- 🌱 I’m currently learning  Salesforce CPQ (next 30 days)
 - 💞️ I’m looking to collaborate on projects that challenges me to learn, to apply, to work hard (preferably smart work) and to provide optmise solutions. 
 - 📫 How to reach me: payyagari@rocketsoftware.com
 
